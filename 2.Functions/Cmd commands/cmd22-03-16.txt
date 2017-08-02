@@ -1,0 +1,38 @@
+    3  cd Foundations/
+    4  mkdir C++
+    5  cd C++/
+    6  mkdir Functions
+    7  cd Functions/
+    8  vi hello.cpp
+    9  c++ -o hello hello.cpp 
+   10  ll
+   11  ./hello 
+   12  vi namespacetest1.cpp
+   13  c++ -o namespacetest1 namespacetest1.cpp 
+   14  ./namespacetest1 
+   15  echo $?
+   16  vi namespacetest1.cpp
+   17  c++ -o namespacetest1 namespacetest1.cpp 
+   18  ./namespacetest1 
+   19  echo $?
+   20  vi namespacetest1.cpp
+   21  c++ -o namespacetest1 namespacetest1.cpp 
+   22  vi namespacetest1.cpp
+   23  c++ -o namespacetest1 namespacetest1.cpp 
+   24  ./namespacetest1 
+   25  echo $?
+   26  vi namespacetest1.cpp
+   27  objdump -t namespacetest1
+   28  vi namespacetest1.cpp
+   29  vi namespacetest2.h
+   30  vi namespacetest2.cpp
+   31  c++ -o namespacetest2 namespacetest2.cpp 
+   32  ./namespacetest2 
+   33  echo $?
+   34  objdump -t namespacetest2
+   35  vi namespacetest2.cpp
+   36  c++ -o namespacetest2 namespacetest2.cpp 
+   37  ./namespacetest2 
+   38  echo $?
+   39  vi namespacetest2.cpp
+   40  history > cmd22-03-16.txt

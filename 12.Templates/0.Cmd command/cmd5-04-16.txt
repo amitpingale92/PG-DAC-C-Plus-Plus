@@ -1,0 +1,60 @@
+    2  cd Foundations/C++/
+    3  mkdir Templates
+    4  cd Templates/
+    5  vi functmplttest1.cpp
+    6  c++ -o functmplttest1 functmplttest1.cpp 
+    7  ./functmplttest1 
+    8  vi functmplttest1.cpp
+    9  c++ -o functmplttest1 functmplttest1.cpp 
+   10  vi functmplttest1.cpp
+   11  c++ -o functmplttest1 functmplttest1.cpp 
+   12  ./functmplttest1 
+   13  vi functmplttest1.cpp
+   14  c++ -o functmplttest1 functmplttest1.cpp 
+   15  ./functmplttest1 
+   16  vi functmplttest1.cpp
+   17  c++ -o functmplttest1 functmplttest1.cpp 
+   18  ./functmplttest1 
+   19  vi functmplttest1.cpp
+   20  vi functmplttest2.cpp
+   21  c++ -o functmplttest2 functmplttest2.cpp 
+   22  ./functmplttest2 
+   23  vi functmplttest2.cpp
+   24  c++ -o functmplttest2 functmplttest2.cpp 
+   25  ./functmplttest2 
+   26  vi functmplttest2.cpp
+   27  c++ -o functmplttest2 functmplttest2.cpp 
+   28  ./functmplttest2 
+   29  vi functmplttest2.cpp
+   30  c++ -o functmplttest2 functmplttest2.cpp 
+   31  ./functmplttest2 
+   32  vi functmplttest2.cpp
+   33  c++ -o functmplttest2 functmplttest2.cpp 
+   34  ./functmplttest2 
+   35  vi functmplttest2.cpp
+   36  c++ -o functmplttest2 functmplttest2.cpp 
+   37  ./functmplttest2 
+   38  vi functmplttest2.cpp
+   39  c++ -o functmplttest2 functmplttest2.cpp 
+   40  ./functmplttest2 
+   41  vi classtmplttest1.cpp
+   42  c++ -o classtmplttest1 classtmplttest1.cpp 
+   43  ./classtmplttest1 
+   44  vi classtmplttest1.cpp
+   45  cp classtmplttest1.cpp classtmplttest2.cpp
+   46  vi classtmplttest2.cpp 
+   47  c++ -o classtmplttest2 classtmplttest2.cpp 
+   48  ./classtmplttest2
+   49  cp classtmplttest1.cpp classtmplttest3.cpp
+   50  vi classtmplttest3.cpp 
+   51  c++ -o classtmplttest3 classtmplttest3.cpp 
+   52  vi classtmplttest3.cpp 
+   53  c++ -o classtmplttest3 classtmplttest3.cpp 
+   54  ./classtmplttest3 
+   55  vi classtmplttest3.cpp 
+   56  c++ -o classtmplttest3 classtmplttest3.cpp 
+   57  ./classtmplttest3 
+   58  vi functmplttest2.cpp 
+   59  vi classtmplttest3.cpp 
+   60  vi simplelist.h
+   61  history > cmd5-04-16.txt

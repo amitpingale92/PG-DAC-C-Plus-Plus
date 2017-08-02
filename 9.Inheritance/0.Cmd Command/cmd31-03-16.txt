@@ -1,0 +1,41 @@
+    2  cd Foundations/C++/Inheritance/
+    3  vi virtfunctest.cpp 
+    4  vi derivedclasstest.cpp 
+    5  c++ -o virtfunctest virtfunctest.cpp 
+    6  vi virtdtortest.cpp
+    7  c++ -o virtdtortest virtdtortest.cpp 
+    8  ./virtdtortest 
+    9  vi virtdtortest.cpp
+   10  vi payroll2.h 
+   11  c++ -o virtdtortest virtdtortest.cpp 
+   12  ./virtdtortest 
+   13  vi virtdtortest.cpp
+   14  c++ -o virtdtortest virtdtortest.cpp 
+   15  ./virtdtortest 
+   16  vi virtdtortest.cpp
+   17  vi payroll2.h 
+   18  cp virtdtortest.cpp rttitest1.cpp
+   19  vi rttitest1.cpp 
+   20  c++ -o rttitest1 rttitest1.cpp 
+   21  vi rttitest1.cpp 
+   22  c++ -o rttitest1 rttitest1.cpp 
+   23  vi rttitest1.cpp 
+   24  c++ -o rttitest1 rttitest1.cpp 
+   25  ./rttitest1 
+   26  vi rttitest1.cpp 
+   27  c++ -o rttitest1 rttitest1.cpp 
+   28  ./rttitest1 
+   29  vi rttitest1.cpp 
+   30  c++ -o rttitest1 rttitest1.cpp 
+   31  ./rttitest1 
+   32  vi rttitest1.cpp 
+   33  cp rttitest1.cpp rttitest2.cpp
+   34  vi rttitest2.cpp 
+   35  c++ -o rttitest2 rttitest2.cpp 
+   36  ./rttitest2 
+   37  vi rttitest2.cpp 
+   38  c++ -o rttitest2 rttitest2.cpp 
+   39  ./rttitest2 
+   40  vi rttitest2.cpp 
+   41  c++ -o rttitest2 rttitest2.cpp 
+   42  history > cmd31-03-16.txt 

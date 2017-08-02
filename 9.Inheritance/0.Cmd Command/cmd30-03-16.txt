@@ -1,0 +1,98 @@
+    2  cd Foundations/C++/Classes/
+    3  cp opovldtest2.cpp objcopytest.cpp
+    4  vi objcopytest.cpp 
+    5  c++ -o objcopytest objcopytest.cpp 
+    6  ./objcopytest 
+    7  vi objcopytest.cpp 
+    8  c++ -o objcopytest objcopytest.cpp 
+    9  ./objcopytest 
+   10  vi objcopytest.cpp 
+   11  c++ -o objcopytest objcopytest.cpp 
+   12  ./objcopytest 
+   13  vi objcopytest.cpp 
+   14  c++ -o objcopytest objcopytest.cpp 
+   15  ./objcopytest 
+   16  vi objcopytest.cpp 
+   17  c++ -o objcopytest objcopytest.cpp 
+   18  ./objcopytest 
+   19  vi objcopytest.cpp 
+   20  c++ -o objcopytest objcopytest.cpp 
+   21  ./objcopytest 
+   22  vi objcopytest.cpp 
+   23  c++ -o objcopytest objcopytest.cpp 
+   24  ./objcopytest 
+   25  vi objcopytest.cpp 
+   26  c++ -o objcopytest objcopytest.cpp 
+   27  ./objcopytest 
+   28  vi objcopytest.cpp 
+   29  cp classtest1.cpp newdelobjtest.cpp
+   30  vi newdelobjtest.cpp 
+   31  c++ -o newdelobjtest newdelobjtest.cpp 
+   32  ./newdelobjtest 
+   33  vi newdelobjtest.cpp 
+   34  c++ -o newdelobjtest newdelobjtest.cpp 
+   35  ./newdelobjtest 
+   36  vi newdelobjtest.cpp 
+   37  cp newdelobjtest.cpp newdelarrtest.cpp
+   38  vi newdelarrtest.cpp 
+   39  c++ -o newdelarrtest newdelarrtest.cpp 
+   40  ./newdelarrtest 
+   41  vi newdelarrtest.cpp 
+   42  c++ -o newdelarrtest newdelarrtest.cpp 
+   43  vi newdelarrtest.cpp 
+   44  c++ -o newdelarrtest newdelarrtest.cpp 
+   45  ./newdelarrtest 
+   46  vi newdelarrtest.cpp 
+   47  c++ -o newdelarrtest newdelarrtest.cpp 
+   48  ./newdelarrtest 
+   49  vi newdelarrtest.cpp 
+   50  ./newdelarrtest 
+   51  vi newdelarrtest.cpp 
+   52  c++ -o newdelarrtest newdelarrtest.cpp 
+   53  ./newdelarrtest 
+   54  vi newdelarrtest.cpp 
+   55  ./newdelarrtest 
+   56  vi newdelarrtest.cpp 
+   57  c++ -o newdelarrtest newdelarrtest.cpp 
+   58  ./newdelarrtest 
+   59  echo $?
+   60  ./newdelarrtest 
+   61  echo $?
+   62  ./newdelarrtest 
+   63  echo $?
+   64  vi newdelarrtest.cpp 
+   65  c++ -o newdelarrtest newdelarrtest.cpp 
+   66  vi newdelarrtest.cpp 
+   67  c++ -o newdelarrtest newdelarrtest.cpp 
+   68  ./newdelarrtest 
+   69  echo $?
+   70  vi newdelarrtest.cpp 
+   71  c++ -o newdelarrtest newdelarrtest.cpp 
+   72  ./newdelarrtest 
+   73  cd ..
+   74  mkdir Inheritance
+   75  cd Inheritance/
+   76  vi payroll1.h
+   77  vi derivedclasstest.cpp
+   78  c++ -o derivedclasstest derivedclasstest.cpp 
+   79  ./derivedclasstest 
+   80  vi derivedclasstest.cpp
+   81  c++ -o derivedclasstest derivedclasstest.cpp 
+   82  ./derivedclasstest 
+   83  vi derivedclasstest.cpp
+   84  c++ -o derivedclasstest derivedclasstest.cpp 
+   85  ./derivedclasstest 
+   86  vi derivedclasstest.cpp
+   87  cp payroll1.h payroll2.h 
+   88  vi payroll2.h 
+   89  cp derivedclasstest.cpp virtfunctest.cpp
+   90  vi virtfunctest.cpp 
+   91  c++ -o virtfunctest virtfunctest.cpp 
+   92  ./virtfunctest 
+   93  vi virtfunctest.cpp 
+   94  vi payroll2.h 
+   95  vi payroll1.h 
+   96  vi payroll2.h 
+   97  vi ../Classes/newdelarrtest.cpp 
+   98  vi virtfunctest.cpp 
+   99  history > cmd30-03-16.txt

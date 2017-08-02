@@ -1,0 +1,64 @@
+    2  cd Foundations/C++/
+    3  ll
+    4  mkdir Classes
+    5  cd Classes/
+    6  vi classtest1.cpp
+    7  c++ -o classtest1 classtest1.cpp 
+    8  vi classtest1.cpp
+    9  c++ -o classtest1 classtest1.cpp 
+   10  ./classtest1 
+   11  vi classtest1.cpp
+   12  c++ -o classtest1 classtest1.cpp 
+   13  vi classtest1.cpp
+   14  c++ -o classtest1 classtest1.cpp 
+   15  ./classtest1 
+   16  vi classtest1.cpp
+   17  c++ -o classtest1 classtest1.cpp 
+   18  ./classtest1 
+   19  cp classtest1.cpp classtest2.cpp
+   20  vi classtest2.cpp 
+   21  c++ -o classtest2 classtest2.cpp 
+   22  ./classtest2
+   23  cp classtest2.cpp ctortest.cpp
+   24  vi ctortest.cpp 
+   25  c++ -o ctortest ctortest.cpp 
+   26  ./ctortest 
+   27  vi ctortest.cpp 
+   28  c++ -o ctortest ctortest.cpp 
+   29  ./ctortest 
+   30  vi ctortest.cpp 
+   31  c++ -o ctortest ctortest.cpp 
+   32  ./ctortest 
+   33  vi ctortest.cpp 
+   34  c++ -o ctortest ctortest.cpp 
+   35  ./ctortest 
+   36  vi ctortest.cpp 
+   37  c++ -o ctortest ctortest.cpp 
+   38  ./ctortest 
+   39  vi ctortest.cpp 
+   40  c++ -o ctortest ctortest.cpp 
+   41  vi ctortest.cpp 
+   42  c++ -o ctortest ctortest.cpp 
+   43  vi ctortest.cpp 
+   44  c++ -o ctortest ctortest.cpp 
+   45  vi ctortest.cpp 
+   46  c++ -o ctortest ctortest.cpp 
+   47  ~
+   48  cp ctortest.cpp dtortest.cpp
+   49  vi dtortest.cpp 
+   50  c++ -o dtortest dtortest.cpp 
+   51  ./dtortest 
+   52  vi dtortest.cpp 
+   53  c++ -o dtortest dtortest.cpp 
+   54  ./dtortest 
+   55  vi dtortest.cpp 
+   56  c++ -o dtortest dtortest.cpp 
+   57  ./dtortest 
+   58  vi dtortest.cpp 
+   59  c++ -o dtortest dtortest.cpp 
+   60  vi dtortest.cpp 
+   61  c++ -o dtortest dtortest.cpp 
+   62  vi dtortest.cpp 
+   63  c++ -o dtortest dtortest.cpp 
+   64  vi dtortest.cpp 
+   65  history > cmd28-03-16.txt

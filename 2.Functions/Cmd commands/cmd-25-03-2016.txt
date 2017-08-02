@@ -1,0 +1,53 @@
+    2  cd Foundations/C++/Functions/
+    3  vi power.cpp
+    4  c++ -c power.cpp 
+    5  vi functest1.cpp
+    6  c++ -o functest1 functest1.cpp 
+    7  vi functest1.cpp
+    8  c++ -o functest1 functest1.cpp 
+    9  c++ -o functest1 functest1.cpp power.o
+   10  ./functest1 
+   11  vi functest1.cpp
+   12  c++ -o functest1 functest1.cpp power.o
+   13  vi functest1.cpp
+   14  c++ -o functest1 functest1.cpp power.o
+   15  objdump -t power.o
+   16  vi functest1.cpp 
+   17  c++ -o functest1 functest1.cpp power.o
+   18  ./functest1 
+   19  vi functest1.cpp 
+   20  c++ -o functest1 functest1.cpp power.o
+   21  cp /SoftDev/Foundations/Fundamentals/C/Basics/myproc.o .
+   22  objdump -t myproc.o 
+   23  vi functest2.cpp
+   24  c++ -o functest2 functest2.cpp myproc.o 
+   25  vi functest2.cpp
+   26  c++ -o functest2 functest2.cpp myproc.o 
+   27  ./functest2 
+   28  vi functest2.cpp
+   29  vi defargtest.cpp
+   30  c++ -o defargtest defargtest.cpp 
+   31  ./defargtest 
+   32  vi defargtest.cpp
+   33  cp defargtest.cpp funcovldtest.cpp
+   34  vi funcovldtest.cpp 
+   35  c++ -o funcovldtest funcovldtest.cpp 
+   36  vi funcovldtest.cpp 
+   37  c++ -o funcovldtest funcovldtest.cpp 
+   38  ./funcovldtest 
+   39  vi funcovldtest.cpp 
+   40  c++ -o funcovldtest funcovldtest.cpp 
+   41  vi funcovldtest.cpp 
+   42  vi reftypetest.cpp
+   43  c++ -c reftypetest.cpp 
+   44  objdump -D reftypetest.o
+   45  objdump -M intel -D reftypetest.o
+   46  vi reftypetest.cpp
+   47  c++ -o reftypetest reftypetest.cpp 
+   48  ./reftypetest 
+   49  vi reftypetest.cpp
+   50  c++filt _Z7AverageddRd
+   51  c++filt _Z7AverageddPd
+   52  cd ..
+   53  cd Functions/
+   54  history > cmd-25-03-2016.txt

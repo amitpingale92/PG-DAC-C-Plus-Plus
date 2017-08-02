@@ -1,0 +1,49 @@
+    2  cd Foundations/C++/Templates/
+    3  cp ~/Shared/interval.h .
+    4  vi interval.h 
+    5  vi gencntnrtest.cpp
+    6  c++ -o gencntnrtest gencntnrtest.cpp 
+    7  vi simplelist.h 
+    8  c++ -o gencntnrtest gencntnrtest.cpp 
+    9  vi gencntnrtest.cpp
+   10  c++ -o gencntnrtest gencntnrtest.cpp 
+   11  ./gencntnrtest 
+   12  vi gencntnrtest.cpp
+   13  cp gencntnrtest.cpp genadptrtest.cpp
+   14  vi genadptrtest.cpp 
+   15  c++ -o genadptrtest genadptrtest.cpp 
+   16  ./genadptrtest 
+   17  vi genadptrtest.cpp 
+   18  c++ -o genadptrtest genadptrtest.cpp 
+   19  ./genadptrtest 
+   20  vi genadptrtest.cpp 
+   21  vi gencntnrtest.cpp 
+   22  vi simplelist.h 
+   23  cp gencntnrtest.cpp genitrtrtest.cpp
+   24  vi genitrtrtest.cpp 
+   25  c++ -o genitrtrtest genitrtrtest.cpp 
+   26  ./genitrtrtest 
+   27  vi genitrtrtest.cpp 
+   28  c++ -o genitrtrtest genitrtrtest.cpp 
+   29  vi printing.h
+   30  cp gencntnrtest.cpp genalgrtmtest1.cpp
+   31  vi genalgrtmtest1.cpp 
+   32  c++ -o genalgrtmtest1 genalgrtmtest1.cpp 
+   33  ./genalgrtmtest1 
+   34  vi genalgrtmtest1.cpp 
+   35  vi printing.h 
+   36  vi genalgrtmtest1.cpp 
+   37  c++ -o genalgrtmtest1 genalgrtmtest1.cpp 
+   38  ./genalgrtmtest1 
+   39  vi genalgrtmtest1.cpp 
+   40  c++ -o genalgrtmtest1 genalgrtmtest1.cpp 
+   41  vi genalgrtmtest1.cpp 
+   42  c++ -o genalgrtmtest1 genalgrtmtest1.cpp 
+   43  ./genalgrtmtest1 
+   44  vi genalgrtmtest1.cpp 
+   45  cp genalgrtmtest1.cpp genalgrtmtest2.cpp
+   46  vi genalgrtmtest2.cpp 
+   47  c++ -o genalgrtmtest2 genalgrtmtest2.cpp 
+   48  ./genalgrtmtest2 
+   49  vi interval.h 
+   50  history > cmd6-04-16.txt 

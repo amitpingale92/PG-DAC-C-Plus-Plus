@@ -1,0 +1,54 @@
+    2  cd Foundations/C++/Inheritance/
+    3  vi mivitest.cpp
+    4  c++ -o mivitest mivitest.cpp 
+    5  vi mivitest.cpp
+    6  c++ -o mivitest mivitest.cpp 
+    7  ./mivitest 
+    8  vi mivitest.cpp
+    9  c++ -o mivitest mivitest.cpp 
+   10  vi mivitest.cpp
+   11  c++ -o mivitest mivitest.cpp 
+   12  ./mivitest 
+   13  vi mivitest.cpp
+   14  c++ -o mivitest mivitest.cpp 
+   15  vi mivitest.cpp
+   16  c++ -o mivitest mivitest.cpp 
+   17  ./mivitest 
+   18  vi mivitest.cpp
+   19  c++ -o mivitest mivitest.cpp 
+   20  vi mivitest.cpp
+   21  c++ -o mivitest mivitest.cpp 
+   22  ./mivitest 
+   23  vi mivitest.cpp
+   24  c++ -o mivitest mivitest.cpp 
+   25  ./mivitest 
+   26  vi mivitest.cpp
+   27  vi student.h
+   28  vi othercasttest.cpp
+   29  c++ -o othercasttest othercasttest.cpp 
+   30  ./othercasttest 
+   31  vi othercasttest.cpp
+   32  c++ -o othercasttest othercasttest.cpp 
+   33  vi othercasttest.cpp
+   34  c++ -o othercasttest othercasttest.cpp 
+   35  ./othercasttest 
+   36  vi othercasttest.cpp
+   37  c++ -o othercasttest othercasttest.cpp 
+   38  vi othercasttest.cpp
+   39  c++ -o othercasttest othercasttest.cpp 
+   40  ./othercasttest 
+   41  vi othercasttest.cpp
+   42  c++ -o othercasttest othercasttest.cpp 
+   43  vi othercasttest.cpp
+   44  c++ -o othercasttest othercasttest.cpp 
+   45  vi othercasttest.cpp
+   46  c++ -o othercasttest othercasttest.cpp 
+   47  vi othercasttest.cpp
+   48  c++ -o othercasttest othercasttest.cpp 
+   49  vi othercasttest.cpp
+   50  c++ -o othercasttest othercasttest.cpp 
+   51  ./othercasttest 
+   52  vi othercasttest.cpp
+   53  vi ..
+   54  vi ../Classes/objcopytest.cpp 
+   55  history > cmd4-04-16.txt

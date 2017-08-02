@@ -1,0 +1,69 @@
+    2  cd Foundations/C++/Classes/
+    3  cp dtortest.cpp objreftest.cpp
+    4  vi objreftest.cpp 
+    5  c++ -o objreftest objreftest.cpp 
+    6  ./objreftest 
+    7  vi objreftest.cpp 
+    8  c++ -o objreftest objreftest.cpp 
+    9  ./objreftest 
+   10  vi objreftest.cpp 
+   11  c++ -o objreftest objreftest.cpp 
+   12  ./objreftest 
+   13  vi objreftest.cpp 
+   14  c++ -o objreftest objreftest.cpp 
+   15  vi objreftest.cpp 
+   16  c++ -o objreftest objreftest.cpp 
+   17  ./objreftest 
+   18  vi objreftest.cpp 
+   19  c++ -o objreftest objreftest.cpp 
+   20  vi objreftest.cpp 
+   21  c++ -o objreftest objreftest.cpp 
+   22  vi objreftest.cpp 
+   23  c++ -o objreftest objreftest.cpp 
+   24  vi objreftest.cpp 
+   25  cp objreftest.cpp opovldtest1.cpp
+   26  vi opovldtest1.cpp 
+   27  c++ -o opovldtest1 opovldtest1.cpp 
+   28  vi opovldtest1.cpp 
+   29  c++ -o opovldtest1 opovldtest1.cpp 
+   30  vi opovldtest1.cpp 
+   31  c++ -o opovldtest1 opovldtest1.cpp 
+   32  vi opovldtest1.cpp 
+   33  c++ -o opovldtest1 opovldtest1.cpp 
+   34  ./opovldtest1 
+   35  vi opovldtest1.cpp 
+   36  c++ -o opovldtest1 opovldtest1.cpp 
+   37  vi opovldtest1.cpp 
+   38  c++ -o opovldtest1 opovldtest1.cpp 
+   39  ./opovldtest1 
+   40  vi opovldtest1.cpp 
+   41  c++ -o opovldtest1 opovldtest1.cpp 
+   42  ./opovldtest1 
+   43  vi opovldtest1.cpp 
+   44  c++ -o opovldtest1 opovldtest1.cpp 
+   45  ./opovldtest1 
+   46  vi opovldtest1.cpp 
+   47  c++ -o opovldtest1 opovldtest1.cpp 
+   48  ./opovldtest1 
+   49  vi opovldtest1.cpp 
+   50  c++ -o opovldtest1 opovldtest1.cpp 
+   51  vi opovldtest1.cpp 
+   52  c++ -o opovldtest1 opovldtest1.cpp 
+   53  vi opovldtest1.cpp 
+   54  c++ -o opovldtest1 opovldtest1.cpp 
+   55  vi opovldtest1.cpp 
+   56  c++ -o opovldtest1 opovldtest1.cpp 
+   57  vi opovldtest1.cpp 
+   58  c++ -o opovldtest1 opovldtest1.cpp 
+   59  ./opovldtest1 
+   60  vi opovldtest1.cpp 
+   61  cp opovldtest1.cpp opovldtest2.cpp
+   62  vi opovldtest2.cpp 
+   63  c++ -o opovldtest2 opovldtest2.cpp 
+   64  ./opovldtest2
+   65  vi opovldtest2.cpp 
+   66  c++ -o opovldtest2 opovldtest2.cpp 
+   67  vi opovldtest2.cpp 
+   68  c++ -o opovldtest2 opovldtest2.cpp 
+   69  ./opovldtest2
+   70  history >cmd29-03-16.txt

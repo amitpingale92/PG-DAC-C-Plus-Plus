@@ -1,0 +1,47 @@
+    2  cd Foundations/C++/Inheritance/
+    3  vi banking1.h
+    4  vi banking1.cpp
+    5  c++ -c banking1.cpp 
+    6  vi banking1.cpp
+    7  c++ -c banking1.cpp 
+    8  vi adttest1.cpp
+    9  c++ -o adttest1 adttest1.cpp banking1.o
+   10  ./adttest1 
+   11  vi adttest1.cpp
+   12  c++ -o adttest1 adttest1.cpp banking1.o
+   13  ./adttest1 
+   14  cp adttest1.cpp adttest2.cpp
+   15  vi adttest2.cpp 
+   16  c++ -o adttest2 adttest2.cpp banking1.o
+   17  vi adttest2.cpp 
+   18  c++ -o adttest2 adttest2.cpp banking1.o
+   19  ./adttest2
+   20  vi adttest2.cpp 
+   21  vi banking1.cpp 
+   22  c++ -c banking1.cpp 
+   23  vi adttest2.cpp 
+   24  c++ -o adttest2 adttest2.cpp banking1.o
+   25  ./adttest2 
+   26  vi adttest2.cpp 
+   27  c++ -o adttest2 adttest2.cpp banking1.o
+   28  ./adttest2 
+   29  vi adttest2.cpp 
+   30  cp banking1.h banking2.h
+   31  vi banking2.h 
+   32  cp banking1.cpp banking2.cpp
+   33  vi banking2.cpp 
+   34  vi banking1.h
+   35  vi banking2.h
+   36  vi banking2.cpp 
+   37  cp adttest2.cpp adtmitest.cpp
+   38  vi adtmitest.cpp 
+   39  c++ -c banking2.cpp 
+   40  c++ -o adtmitest adtmitest.cpp banking2.o
+   41  vi adtmitest.cpp 
+   42  c++ -o adtmitest adtmitest.cpp banking2.o
+   43  ./adtmitest 
+   44  vi adtmitest.cpp 
+   45  vi banking2.h
+   46  vi banking2.cpp 
+   47  vi adtmitest.cpp 
+   48  history > cmd1-04-16.txt 
